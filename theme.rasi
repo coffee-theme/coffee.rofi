@@ -1,11 +1,3 @@
-/**
- * Base16 oomox-Dracula ROFI Color theme
- *
- * Authors
- *  Scheme: oomox-Dracula
- *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
- */
-
 * {
     red:                         rgba ( 143, 148, 148, 100 % );
     blue:                        rgba ( 201, 135, 160, 100 % );
